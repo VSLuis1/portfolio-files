@@ -1,6 +1,6 @@
 # portfolio-files
 
-![Previw](/public/img/design/flashwork.png)
+![Previw](/public/img/design/flashwork.jpg)
 ![Previw](/public/img/design/vision.jpg)
 ![Previw](/public/img/design/planty.jpg)
 ![Previw](/public/img/design/feedback.jpg)
